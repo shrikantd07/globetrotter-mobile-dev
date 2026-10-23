@@ -1,0 +1,8 @@
+{
+  "name": "Remix GlobeTrotter",
+  "description": "A luxury editorial travel planner for crafting day-by-day itineraries, tracking trip budgets, discovering dream destinations, and generating AI-powered journeys.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
